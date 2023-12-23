@@ -5,6 +5,8 @@ For build prereqs, see [the CS144 VM setup instructions](https://web.stanford.ed
 
 Website: https://cs144.stanford.edu.
 
+My blog: [Stanford-CS144 Notes](https://coderzqy.github.io/categories/Stanford-CS144/)
+
 To set up the build system: `cmake -S . -B build`
 
 To compile: `cmake --build build`
